@@ -1,12 +1,10 @@
 package guru.springframework.sfgdi.services;
 
-import org.springframework.stereotype.Service;
-
 /**
  * @author john
  * @since 2/5/22
  **/
-@Service
+//@Service
 public class SetterInjectedGreetingService implements GreetingService{
 
     @Override
